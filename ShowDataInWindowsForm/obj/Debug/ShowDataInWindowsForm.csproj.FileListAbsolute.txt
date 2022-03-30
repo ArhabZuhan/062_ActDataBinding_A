@@ -1,0 +1,10 @@
+C:\Users\Zuhan\source\repos\ShowDataInWindowsForm\ShowDataInWindowsForm\bin\Debug\ShowDataInWindowsForm.exe.config
+C:\Users\Zuhan\source\repos\ShowDataInWindowsForm\ShowDataInWindowsForm\bin\Debug\ShowDataInWindowsForm.exe
+C:\Users\Zuhan\source\repos\ShowDataInWindowsForm\ShowDataInWindowsForm\bin\Debug\ShowDataInWindowsForm.pdb
+C:\Users\Zuhan\source\repos\ShowDataInWindowsForm\ShowDataInWindowsForm\obj\Debug\ShowDataInWindowsForm.csproj.AssemblyReference.cache
+C:\Users\Zuhan\source\repos\ShowDataInWindowsForm\ShowDataInWindowsForm\obj\Debug\ShowDataInWindowsForm.Form1.resources
+C:\Users\Zuhan\source\repos\ShowDataInWindowsForm\ShowDataInWindowsForm\obj\Debug\ShowDataInWindowsForm.Properties.Resources.resources
+C:\Users\Zuhan\source\repos\ShowDataInWindowsForm\ShowDataInWindowsForm\obj\Debug\ShowDataInWindowsForm.csproj.GenerateResource.cache
+C:\Users\Zuhan\source\repos\ShowDataInWindowsForm\ShowDataInWindowsForm\obj\Debug\ShowDataInWindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\Zuhan\source\repos\ShowDataInWindowsForm\ShowDataInWindowsForm\obj\Debug\ShowDataInWindowsForm.exe
+C:\Users\Zuhan\source\repos\ShowDataInWindowsForm\ShowDataInWindowsForm\obj\Debug\ShowDataInWindowsForm.pdb
